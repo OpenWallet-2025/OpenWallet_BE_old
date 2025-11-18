@@ -1,4 +1,4 @@
-package com.openwallet.openwallet;
+package com.openwallet;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
